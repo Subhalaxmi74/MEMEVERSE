@@ -47,25 +47,7 @@ Memeverse is a multi-page, highly interactive website where users can explore, u
 - **Storage:** Local Storage / IndexedDB
 - **APIs:** Meme APIs (Imgflip API, Meme Generator API)
 - **Image Uploads:** Cloudinary / Firebase / ImgBB API
-- **Performance Optimization:** Lighthouse, React Profiler
-
-## Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/memeverse-frontend.git
-   cd memeverse-frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add necessary API keys and backend endpoints.
-4. Run the application:
-   ```bash
-   npm run dev
-   ```
+- **Performance Optimization:** Lighthouse, React Profile
 
 ## Usage
 - Open the application in your browser (`http://localhost:5173`).
@@ -98,10 +80,3 @@ If your markdown viewer supports HTML, you can embed the video directly:
 - Create a new branch.
 - Make your changes and commit.
 - Submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any issues or feature requests, please open an issue on the repository or contact the project maintainer at `antimamishra277@gmail.com`.
-
